@@ -931,10 +931,10 @@
       "name": "misogynist"
     },
     {
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "addPrice": 3333,
-      "removePrice": 1,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy has a fantastic memory for detail. he will learn new skills slightly faster than other people.",
       "stats": [
@@ -2089,10 +2089,10 @@
       "name": "recluse"
     },
     {
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
-      "addPrice": 1,
-      "removePrice": 1,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy has outstanding memory, both in terms of retaining information but also muscle memory. his skills will never decay.",
       "stats": [],

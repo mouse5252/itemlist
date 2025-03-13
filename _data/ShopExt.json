@@ -485,8 +485,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1,
-      "removePrice": 1,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is romantically attracted to people of his own gender.",
       "stats": [],
@@ -507,8 +507,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1,
-      "removePrice": 1,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is romantically attracted to both men and women.",
       "stats": [],
@@ -529,8 +529,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 1,
-      "removePrice": 1,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy has no sexual attraction to anyone at all.",
       "stats": [],
@@ -931,10 +931,10 @@
       "name": "misogynist"
     },
     {
-      "canAdd": false,
+      "canAdd": true,
       "canRemove": true,
       "addPrice": 3333,
-      "removePrice": 1,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy has a fantastic memory for detail. he will lose unused skills at half the rate of other people.",
       "stats": [
@@ -2090,9 +2090,9 @@
     },
     {
       "canAdd": false,
-      "canRemove": true,
-      "addPrice": 1,
-      "removePrice": 1,
+      "canRemove": false,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy has outstanding memory, both in terms of retaining information but also muscle memory. his skills will never decay.",
       "stats": [],
@@ -2244,7 +2244,7 @@
       "addPrice": 3333,
       "removePrice": 1111,
       "degree": 0,
-      "description": "Timmy has a mind with naturally high \"bandwidth\", his brain is more compatible with implants.",
+      "description": "Timmy's mind seems to be wired differently, making his brain exceptionally receptive to neural implants and mechanical interfaces.",
       "stats": [
         "x150% mech bandwidth",
         "x150% mech control groups",
@@ -2274,7 +2274,7 @@
       "addPrice": 3333,
       "removePrice": 1111,
       "degree": 0,
-      "description": "Interacting with mechanoids has always just \"made sense\" to Timmy. he will project shields, repair, and create mechs more effectively",
+      "description": "From the moment Timmy first laid eyes on a mechanoid, he felt an instinctive connection. he seems to understand these machines on a fundamental level, making his interactions with them remarkably efficient.",
       "stats": [
         "x125% mech remote repair distance",
         "x125% mech remote shield distance",
@@ -2310,7 +2310,7 @@
       "addPrice": 3333,
       "removePrice": 1111,
       "degree": 0,
-      "description": "Formerly a prison guard at a maximum security prison, Timmy knows how to intimidate the most disobedient of prisoners.",
+      "description": "Years spent working in a maximum security prison have taught Timmy how to handle even the most unruly prisoners. he knows exactly how to maintain order and keep people in line.",
       "stats": [
         "+3 melee",
         "+1 shooting",
@@ -2348,7 +2348,7 @@
       "addPrice": 3333,
       "removePrice": 1111,
       "degree": 0,
-      "description": "Timmy has an unshakeable belief in their ideology, he is skilled at getting others to see things the same way.",
+      "description": "Timmy's faith burns with an unquenchable flame. he has a remarkable gift for sharing his convictions with others, helping them see the light of his ideology.",
       "stats": [
         "x150% conversion power",
         "x10% global certainty loss factor",
@@ -2382,7 +2382,7 @@
       "addPrice": 3333,
       "removePrice": 1111,
       "degree": 0,
-      "description": "With little training, Timmy recovers neural heat multitudes faster than even lifelong psylinks, albeit with reduced heat capacity.",
+      "description": "Though Timmy has barely begun his training, he already shows an extraordinary talent for psychic abilities. he recovers from neural heat with remarkable speed, though his capacity remains modest.",
       "stats": [
         "x110% psychic sensitivity",
         "x400% neural heat recovery rate",
@@ -2414,7 +2414,7 @@
       "addPrice": 3333,
       "removePrice": 1111,
       "degree": 0,
-      "description": "Timmy was born with immense neural heat capacity and proportionately slow heat dissipation.",
+      "description": "Born with an exceptional reservoir of psychic energy, Timmy can channel immense amounts of neural heat. While he takes longer to recover, his capacity far exceeds that of most psylinks.",
       "stats": [
         "x110% psychic sensitivity",
         "x25% neural heat recovery rate",
@@ -2446,7 +2446,7 @@
       "addPrice": 3333,
       "removePrice": 1111,
       "degree": 0,
-      "description": "Timmy has nimble hands and works at a rapid pace.",
+      "description": "Timmy's fingers seem to dance across his work, completing tasks with remarkable speed and precision.",
       "stats": [
         "x125% global work speed"
       ],
@@ -2472,7 +2472,7 @@
       "addPrice": 3333,
       "removePrice": 1111,
       "degree": 0,
-      "description": "Timmy has exceptional hand-eye coordination and can quickly put his sights on a target.",
+      "description": "With reflexes honed to perfection, Timmy can acquire and engage targets with astonishing speed. he's hand-eye coordination is nothing short of exceptional.",
       "stats": [
         "x66% aiming time"
       ],
@@ -2498,7 +2498,7 @@
       "addPrice": 3333,
       "removePrice": 1111,
       "degree": 0,
-      "description": "Timmy is a talented marksman with a deadly aim.",
+      "description": "Timmy's aim is legendary. he can place shots with deadly accuracy, making every bullet count.",
       "stats": [
         "x133% shooting accuracy"
       ],
@@ -2524,7 +2524,7 @@
       "addPrice": 3333,
       "removePrice": 1111,
       "degree": 0,
-      "description": "Timmy is a natural born warrior and loves the thrill of fighting at close range.",
+      "description": "Born to the blade, Timmy moves with the grace of a dancer in combat. he finds his true calling in the heat of close-quarters battle.",
       "stats": [
         "+5 melee",
         "x140% melee hit chance",
@@ -2554,7 +2554,7 @@
       "addPrice": 3333,
       "removePrice": 1111,
       "degree": 0,
-      "description": "Timmy is a skilled builder, turning the most complicated plans into reality.",
+      "description": "Timmy has a master builder's eye for detail and efficiency. he can transform complex blueprints into reality with remarkable skill and precision.",
       "stats": [
         "+5 construction",
         "x133% construction speed",
@@ -2588,7 +2588,7 @@
       "addPrice": 3333,
       "removePrice": 1111,
       "degree": 0,
-      "description": "Timmy has an extensive knowledge of geology and uses that to his advantage.",
+      "description": "Timmy's deep understanding of geology makes he an exceptional miner. he knows exactly where to drill and how to extract the most valuable resources.",
       "stats": [
         "+6 mining",
         "x140% deep drilling speed",
@@ -2620,7 +2620,7 @@
       "addPrice": 3333,
       "removePrice": 1111,
       "degree": 0,
-      "description": "Timmy handles ingredients with great care and prepares the most delicious meals.",
+      "description": "In Timmy's hands, ingredients transform into culinary masterpieces. he approaches cooking with both passion and precision, creating meals that delight the senses.",
       "stats": [
         "+2 cooking",
         "x125% cooking speed",
@@ -2654,7 +2654,7 @@
       "addPrice": 3333,
       "removePrice": 1111,
       "degree": 0,
-      "description": "Timmy is a skilled chemist and proficient in synthesizing drugs.",
+      "description": "Timmy's knowledge of chemistry borders on the supernatural. he can synthesize complex drugs with remarkable efficiency, turning raw materials into potent pharmaceuticals.",
       "stats": [
         "x150% drug cooking speed",
         "x150% drug synthesis speed",
@@ -2684,7 +2684,7 @@
       "addPrice": 3333,
       "removePrice": 1111,
       "degree": 0,
-      "description": "Timmy is a professional botanist and knows the peculiarities of most plants.",
+      "description": "Timmy speaks the language of plants fluently. he's deep understanding of botany allows he to coax the best yields from any crop and identify valuable plants in the wild.",
       "stats": [
         "x125% plant work speed",
         "x120% plant harvest yield",
@@ -2718,7 +2718,7 @@
       "addPrice": 3333,
       "removePrice": 1111,
       "degree": 0,
-      "description": "Timmy is a passionate farmer, loving the smell of fresh hay and the sight of grazing animals.",
+      "description": "Timmy has a natural affinity for animals and agriculture. he's gentle touch with livestock and deep understanding of farming makes he an invaluable asset to any settlement.",
       "stats": [
         "x140% animal gather speed",
         "x120% animal gather yield",
@@ -2758,7 +2758,7 @@
       "addPrice": 3333,
       "removePrice": 1111,
       "degree": 0,
-      "description": "Timmy can move his hands with fine-grained precision.",
+      "description": "Timmy's hands seem guided by an innate sense of craftsmanship. he can transform raw materials into works of art with remarkable skill and precision.",
       "stats": [
         "x130% general labor speed",
         "x125% construct success chance",
@@ -2788,7 +2788,7 @@
       "addPrice": 3333,
       "removePrice": 1111,
       "degree": 0,
-      "description": "Timmy sacrifices treatment quality to save as many lives as possible.",
+      "description": "Timmy thrives in the chaos of emergency situations. he prioritizes speed over perfection, saving lives with quick, decisive action rather than painstaking precision.",
       "stats": [
         "+1 medical",
         "x90% medical tend quality",
@@ -2822,7 +2822,7 @@
       "addPrice": 3333,
       "removePrice": 1111,
       "degree": 0,
-      "description": "Timmy is a skilled craftsman and knows how to handle various materials.",
+      "description": "Timmy's mastery of metalworking is evident in every piece he creates. he can transform raw metal into tools and weapons with remarkable efficiency.",
       "stats": [
         "x115% general labor speed",
         "x135% mechanoid shredding speed",
@@ -2854,7 +2854,7 @@
       "addPrice": 3333,
       "removePrice": 1111,
       "degree": 0,
-      "description": "Timmy is tactful in his social interactions and uses it to his advantage.",
+      "description": "Timmy has a natural talent for diplomacy and negotiation. he can read people like an open book and always seems to find the right words to get what he wants.",
       "stats": [
         "x115% trade price improvement",
         "x140% negotiation ability",
@@ -2884,7 +2884,7 @@
       "addPrice": 3333,
       "removePrice": 1111,
       "degree": 0,
-      "description": "Timmy has an extraordinary intellect accompanied with mental instability.",
+      "description": "Timmy's brilliant mind comes at a cost. he learns at an astonishing rate but struggles with mental stability, his extraordinary intellect walking hand in hand with emotional volatility.",
       "stats": [
         "x150% global learning factor",
         "x140% psychic sensitivity",
@@ -2914,7 +2914,7 @@
       "addPrice": 3333,
       "removePrice": 1111,
       "degree": 0,
-      "description": "Timmy maintains a clear state of mind and remains unfazed by the struggles of life.",
+      "description": "Timmy possesses a rare combination of intelligence and emotional stability. he approaches challenges with a clear mind and steady hand, making he an invaluable advisor and researcher.",
       "stats": [
         "+6 intellectual",
         "x110% global learning factor",
@@ -2948,7 +2948,7 @@
       "addPrice": 3333,
       "removePrice": 1111,
       "degree": 0,
-      "description": "Timmy rarely stands out and is overlooked by almost everyone he meets.",
+      "description": "Timmy has mastered the art of being unremarkable. he moves through life unnoticed, his unassuming nature often working to his advantage in negotiations and social situations.",
       "stats": [
         "x80% trade price improvement",
         "x50% honor value",
@@ -2975,8 +2975,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy has a gentle and cool-headed nature. he is less likely to insult others or starts fights, and will sometimes cheer up others.",
       "stats": [
@@ -3009,8 +3009,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is able to use oversized weapons.",
       "stats": [],
@@ -3031,8 +3031,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is truly gigantic by the standards of their kind. They are sturdier than usual, but being significantly larger than normal for their kind does slow them down somewhat and make them more prone to early heart attacks and other health-issues.",
       "stats": [
@@ -3063,8 +3063,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is both taller and bulkier than usual for their kind. This makes them sturdier but slightly slower.",
       "stats": [
@@ -3095,8 +3095,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is a bit smaller than usual for their kind.",
       "stats": [
@@ -3129,8 +3129,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is much smaller than usual for their kind.",
       "stats": [
@@ -3163,8 +3163,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy learns faster in skills they lack passion in.\n\n(This increase to no-passion learning will not show in the skill UI)",
       "stats": [
@@ -3191,8 +3191,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy learns much faster in skills they lack passion in.\n\n(This increase to no-passion learning will not show in the skill UI)",
       "stats": [
@@ -3219,8 +3219,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "There is something about Timmy that makes predators not consider them prey",
       "stats": [],
@@ -3241,8 +3241,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy loves alcohol. he will never stop being addicted to it.",
       "stats": [
@@ -3277,8 +3277,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy doesn't react to insults or to either part failing a flirt attempt.",
       "stats": [],
@@ -3299,8 +3299,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy isn't bothered by rough appearances, a bit of rough living. Timmy also doesn't care as much for royal titles.",
       "stats": [],
@@ -3333,8 +3333,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Either the body or mind of Timmy is one of insight and experience. While some find them old fashioned, others will respect their guidance.",
       "stats": [],
@@ -3355,8 +3355,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 1,
       "description": "Timmy hates and distrusts xenos. They see them as little more than animals.",
       "stats": [],
@@ -3377,8 +3377,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": -1,
       "description": "Timmy thinks aliens are exotic and interesting. They would love to get to know them more and wouldn't mind forming relationships with them.",
       "stats": [],
@@ -3399,8 +3399,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy has no more fucks to give.",
       "stats": [
@@ -3549,8 +3549,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is made for designing colonies on the rimworlds.",
       "stats": [
@@ -3591,8 +3591,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is a little pushy, but with it comes natural authority.",
       "stats": [
@@ -3649,8 +3649,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy loves being outdoors, exploring new things. And he knows how to pack for whatever it takes him.",
       "stats": [
@@ -3697,8 +3697,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy loves sharp, bladed weapons and uses them swiftly and deadly.",
       "stats": [
@@ -3763,8 +3763,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy loves all things growing. And he has a very good hand with them.",
       "stats": [
@@ -3801,8 +3801,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy always talks about his own accomplishments. It's pretty tiresome, but has its uses.",
       "stats": [
@@ -3845,8 +3845,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is almost over the edge. Don't push him.",
       "stats": [
@@ -3903,8 +3903,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is all about small talk.",
       "stats": [
@@ -3957,8 +3957,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy practices 'better safe than sorry'.",
       "stats": [
@@ -4079,8 +4079,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is just a bucket of joy.",
       "stats": [
@@ -4161,8 +4161,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy has a sharp mind.",
       "stats": [
@@ -4249,8 +4249,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is trained in speedy treatment.",
       "stats": [
@@ -4335,8 +4335,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is the kind of person who thinks everything is everbody else's fault.",
       "stats": [
@@ -4391,8 +4391,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy's body just works a bit differently. he eats a lot, but has a lot of energy an strength in return.",
       "stats": [
@@ -4439,8 +4439,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is the definition of 'head on'. Sometimes it's not to his benefit.",
       "stats": [
@@ -4503,8 +4503,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy has steady hands.",
       "stats": [
@@ -4563,8 +4563,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is determined and won't fold easily.",
       "stats": [
@@ -4647,8 +4647,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is doomed.",
       "stats": [
@@ -4715,8 +4715,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Every new day equals new opportunities.Timmy is as eager to explore them all.",
       "stats": [
@@ -4765,8 +4765,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy always finds a way to improve things.",
       "stats": [
@@ -4829,8 +4829,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy always takes a defensive stance when fighting. he takes and deals less damage.",
       "stats": [
@@ -4877,8 +4877,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy has a pretty bad habit of closing his eyes when something's coming at him.",
       "stats": [
@@ -4939,8 +4939,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy has a passion for plants and beauty.",
       "stats": [
@@ -4997,8 +4997,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is everywhere all the time.",
       "stats": [
@@ -5055,8 +5055,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is the sort of person who does his job and let everybody else worry about the rest.",
       "stats": [
@@ -5157,8 +5157,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy takes everyday routines seriously.",
       "stats": [
@@ -5233,8 +5233,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy loves crafting and shooting rifles and other bigger guns. And not much else.",
       "stats": [
@@ -5291,8 +5291,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is all about the stones.",
       "stats": [
@@ -5345,8 +5345,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy likes to fight. And he's good at it.",
       "stats": [
@@ -5419,8 +5419,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy does whatever it takes and not very often in the nicest of ways.",
       "stats": [
@@ -5507,8 +5507,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is all about spreading the faith through words.",
       "stats": [
@@ -5579,8 +5579,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is fighting in the name of his faith.",
       "stats": [
@@ -5649,8 +5649,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is huge. Strong, but slow in two different ways.",
       "stats": [
@@ -5743,8 +5743,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is not interested in that. Nope, not that either.",
       "stats": [
@@ -5803,8 +5803,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy's body doesn't respond much to any kind of substances. For good or bad.",
       "stats": [
@@ -5845,8 +5845,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy believes summer is the best time of year.",
       "stats": [],
@@ -5875,8 +5875,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy believes fall is the best time of year.",
       "stats": [],
@@ -5905,8 +5905,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy believes winter is the best time of year.",
       "stats": [],
@@ -5937,8 +5937,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy believes spring is the best time of year.",
       "stats": [],
@@ -5967,8 +5967,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy has long arms and legs. he moves fast, but is a little frail and doesn't have perfect control of his limbs.",
       "stats": [
@@ -6023,8 +6023,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy can make good looking stuff from pretty much anything.",
       "stats": [
@@ -6063,8 +6063,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy has a habit of hitting his enemies the right way.",
       "stats": [
@@ -6101,8 +6101,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy has a habit of hitting his enemies the wrong way.",
       "stats": [
@@ -6157,8 +6157,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is doing all he can to not piss someone off.",
       "stats": [
@@ -6213,8 +6213,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is gonna be a wild child all his life.",
       "stats": [
@@ -6317,8 +6317,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy knows what he wants and usually gets it.",
       "stats": [
@@ -6355,8 +6355,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy does some things fast and many things sloppy.",
       "stats": [
@@ -6421,8 +6421,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is a fearsome fighter with fists and blunt weapons.",
       "stats": [
@@ -6491,8 +6491,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "A strict principle of nonviolence which applies to all living things.",
       "stats": [],
@@ -6513,8 +6513,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 2,
       "description": "Timmy possesses an unnatural, almost pristine beauty that makes him stand out among others of his kind.",
       "stats": [
@@ -6539,8 +6539,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": -2,
       "description": "Timmy is so unfathomably ugly and grotesque that merely looking at him is enough to make other people nauseous.",
       "stats": [
@@ -6565,8 +6565,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 1,
       "description": "Timmy is averse to change or innovation, preferring to hold traditional values.",
       "stats": [
@@ -6597,8 +6597,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 1,
       "description": "Timmy is an expert when it comes to economics. They prefer to spend more time trading and less time working though.",
       "stats": [
@@ -6629,8 +6629,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 2,
       "description": "Timmy is very fit and can easily move at fast speeds.",
       "stats": [
@@ -6655,8 +6655,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 1,
       "description": "Some people see great value and potential in Timmy.",
       "stats": [],
@@ -6685,8 +6685,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": -1,
       "description": "Some people see little value and potential in Timmy.",
       "stats": [],
@@ -6717,8 +6717,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy has lots of past combat experience, though this means that they are a bit on edge.",
       "stats": [
@@ -6753,8 +6753,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": -2,
       "description": "Timmy isn't exactly an accurate shooter and tends to miss the shot.",
       "stats": [
@@ -6789,8 +6789,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 2,
       "description": "Timmy is a natural when it comes to shooting.",
       "stats": [
@@ -6825,8 +6825,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 2,
       "description": "Timmy is a pure, rare genius.",
       "stats": [
@@ -6865,8 +6865,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 1,
       "description": "Timmy is smarter than the average Joe.",
       "stats": [
@@ -6903,8 +6903,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": -1,
       "description": "Timmy is not the brightest in the bunch and has less brain power.",
       "stats": [
@@ -6939,8 +6939,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": -2,
       "description": "Timmy lacks when it comes to brain power but is oblivious to psychic disruption.",
       "stats": [
@@ -6975,8 +6975,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": -1,
       "description": "Timmy has inferior strengh compared to others.",
       "stats": [
@@ -7005,8 +7005,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 2,
       "description": "Timmy is a living tank and can take on most opponents with ease.",
       "stats": [
@@ -7037,8 +7037,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is very good at communicating with other people.",
       "stats": [
@@ -7067,8 +7067,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy just can't get enough from hurting people, he is six times more likely to get into a social fight than others .",
       "stats": [
@@ -7093,8 +7093,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy has unbelievable kinesthetic intelligence. he seems to dance elegantly around danger with not a single worry.",
       "stats": [
@@ -7121,8 +7121,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy likes dirt.",
       "stats": [
@@ -7151,8 +7151,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy likes to remain clean.",
       "stats": [
@@ -7181,8 +7181,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "When you just need luck, Timmy has a high but not certain chance of saving the day.",
       "stats": [
@@ -7217,8 +7217,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is used to hot environments.",
       "stats": [
@@ -7245,8 +7245,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is used to cold environments.",
       "stats": [
@@ -7273,8 +7273,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy has a longer natural lifespan than most. Unless something else kills them first",
       "stats": [
@@ -7299,8 +7299,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy doesn't like to eat a lot of food. However, they are not themselves when they are hungry.",
       "stats": [
@@ -7325,8 +7325,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy doesn't get as much sleep as others and needs to rest much longer.",
       "stats": [
@@ -7353,8 +7353,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is forgetful and will lose unused skills much faster than others.",
       "stats": [],
@@ -7379,8 +7379,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy has been selected by nature to be more durable.Timmy's genes have evolved above everyone elses.",
       "stats": [
@@ -7421,8 +7421,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy has been selected by a higher being to become more powerful.",
       "stats": [
@@ -7463,8 +7463,8 @@
     {
       "canAdd": false,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is truly God-Like, and extremely valuable. If you have one of these colonists, look after them well, I mean it. If you don't bad luck. This trait has a 1.5% chance. ",
       "stats": [
@@ -7513,8 +7513,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 1,
       "description": "Timmy has a healthy immune system. This means that they have a better chance at surviving diseases.",
       "stats": [
@@ -7541,8 +7541,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": -1,
       "description": "Timmy has an unhealthy immune system. This means they are more likely to suffer from diseases.",
       "stats": [
@@ -7571,8 +7571,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Psychic enthrallment caused by incredibly strong mental influence. Thralls don't need to sleep or have recreation, but are unable to do skilled work and engage in social interactions.",
       "stats": [],
@@ -7593,8 +7593,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy tends to occasionally allow their mind to drift, even in the middle of working.",
       "stats": [
@@ -7623,8 +7623,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy has a loose screw or two, a small trade off for being naturally scientifically inclined.",
       "stats": [
@@ -7653,8 +7653,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy strives for perfection in his work. They will naturally produce better quality products at the expense of time. However, making a low quality product will upset them. Additionally, they may very rarely quit a project mid attempt if they don't like the direction its going in.",
       "stats": [
@@ -7679,8 +7679,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "While fully capable of warfare in theory, Timmy's fight or flight instincts heavily lean towards flight, and he will try to hide or run as a first priority.",
       "stats": [],
@@ -7709,8 +7709,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy has a higher mental and physical fortitude compared to most and can more readily adapt to harsh environments in the rimworlds.",
       "stats": [
@@ -7753,8 +7753,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Minor bruises and scrapes plague Timmy all too often, mostly due to uncoordinated tripping or falling.",
       "stats": [],
@@ -7779,8 +7779,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy loves the brightness and heat of a dry summer day. They don't mind working up a sweat or sleeping in the warmth either.",
       "stats": [
@@ -7805,8 +7805,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy loves the overcast and cold of a brisk winter night. They don't mind getting chilly or sleeping in the cold either.",
       "stats": [
@@ -7831,8 +7831,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "A bomb could go off next to Timmy while they sleep and they'd continue to do so. They can't be bothered to defend the colony mid catnap, either.",
       "stats": [],
@@ -7853,8 +7853,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is naturally hygenic and organized. They will not track in dirt or throw trash anywhere, and feel happy while cleaning.",
       "stats": [],
@@ -7879,8 +7879,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is sloppy naturally and leaves trash and dirt everywhere it seems. At least they're not much bothered by messes.",
       "stats": [],
@@ -7905,8 +7905,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy has problems taking breaks or resting mid job. he will continue to work even sacrificing their health or sleep.",
       "stats": [],
@@ -7931,8 +7931,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy has never felt nausea in his life. Throwing up or food poisoning is foreign to him.",
       "stats": [],
@@ -7957,8 +7957,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy can't stand mistreatment of animals. he will feel happier being nuzzled or being a master to a bonded animal, but will be more deeply crushed when not master of a bonded animal or seeing one die. They also refuse to butcher.",
       "stats": [],
@@ -7983,8 +7983,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy believes deeply in human superiority. Killing animals will please them and the colony losing an animal is a cherry on top according to them.",
       "stats": [],
@@ -8015,8 +8015,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Whether because they're a bit chunky or because they shift their weight oddly, Timmy has broken a few chairs in their time and is likely to break more.",
       "stats": [],
@@ -8037,8 +8037,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy only plays by their own rules, and will roll their eyes and take it easy while doing any task they've been forced to do.",
       "stats": [
@@ -8067,8 +8067,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy needs clear instructions on how, and when to do certain things and will only work at a normal speed when being forced to do something.",
       "stats": [
@@ -8097,8 +8097,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is fueled by spite. They can't stand walking on the same soil as their rivals and will be elated by news of their life ending.",
       "stats": [
@@ -8127,8 +8127,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Whether by past trauma or fear of change, Timmy rejects modernity. They may randomly punch or attack mechanical devices and refuse to learn or research anything about them. They also love killing mechanoids.",
       "stats": [
@@ -8157,8 +8157,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy always recalls the good times and lives to party, any party attended will be remembered for many times longer than most.",
       "stats": [],
@@ -8183,8 +8183,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy has hindered mental capacities. While slow to learn and hard to speak with, they tend to be much happier naturally.",
       "stats": [
@@ -8227,8 +8227,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy learned a specific move in melee combat which allows them to disarm opponents and will use it frequently.",
       "stats": [],
@@ -8249,8 +8249,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy believes they belong in high society, and loves nothing more than critiquing art and brushing elbows with royalty.",
       "stats": [],
@@ -8275,8 +8275,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Sour stomach plagues Timmy any time they're around too much blood or rotting corpses. Vomiting is just part of life for him.",
       "stats": [],
@@ -8305,8 +8305,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy feels naturally anxious, but especially from social situations. They will not attend any gatherings and may occasionally need alone time in their room to breathe.",
       "stats": [
@@ -8337,8 +8337,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "No amount of lovin' is enough lovin' for Timmy. he will tend to jump from partner to partner and tumble between the sheets with them frequently.",
       "stats": [
@@ -8369,8 +8369,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy refuses to give their body to anybody but their spouse and would never fathom initiating a divorce. They also hate being nude much more than other pawns.",
       "stats": [
@@ -8401,8 +8401,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "An armchair and flatscreen is all Timmy needs to be happy. Even reruns or ancient commercials are entertaining to them, they will never grow bored of television and tend to watch it more, as well as feel pleased after doing so.",
       "stats": [],
@@ -8423,8 +8423,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is mad for all things feline. They will naturally gravitate towards bonding with cats, however they're not a fan of dogs.",
       "stats": [],
@@ -8449,8 +8449,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is mad for all things canine. They will naturally gravitate towards bonding with dogs, however they're not a fan of cats.",
       "stats": [],
@@ -8475,8 +8475,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is a natural scientist. They research much faster and recall things better. However, they'll be upset without a laboratory dedicated to their work and tend to stress out more frequently.",
       "stats": [
@@ -8507,8 +8507,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy believes animals are integral to the way society and life functions from furry friends to sources of food. They love having as many as possible and are particularly good at taming and training them.",
       "stats": [
@@ -8539,8 +8539,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "The sea calls to Timmy. he feels happier just being near the ocean or a deep river.",
       "stats": [],
@@ -8561,8 +8561,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "The mountains call to Timmy. he feels happier just being near a large mountain.",
       "stats": [],
@@ -8583,8 +8583,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy has a twisted secret. he treats organ harvesting like a sick experiment, and does not even blink at the idea. While harvesting one will make them happy, going too long without giving in to their compulsion will upset them.",
       "stats": [
@@ -8609,8 +8609,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is supposedly a hand-to-hand combat specialist, but only when inebriated. They claim to become more talented the more drunk they are.",
       "stats": [
@@ -8635,8 +8635,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is compulsive to steal and take things that don't belong to them, even if it means angering the other party.",
       "stats": [
@@ -8661,8 +8661,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Smokeleaf culture is just part of life for Timmy. he absolutely adores smokeleaf and would rather die before giving it up.",
       "stats": [],
@@ -8691,8 +8691,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Alcohol culture is just part of life for Timmy. he absolutely adores booze and would rather die before giving it up.",
       "stats": [],
@@ -8721,8 +8721,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy loves to travel and does so swiftly, but can grow upset if they haven't done so in a while. They are also quite adept at foraging while traveling.",
       "stats": [
@@ -8751,8 +8751,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is never really asleep or awake. he is almost zombie like, lurching along and working very slowly, and will only sleep once every three days or so.",
       "stats": [
@@ -8785,8 +8785,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy has grown tired of the world and needs to be constantly distracted to stop dark thoughts. his bleak personality is a big downer and therefore it is very hard to become friends with them.",
       "stats": [],
@@ -8807,8 +8807,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is hardened through what can only be presumed as old emotional trauma. They feel absolutely nothing from lost animals, colonists, family, prisoners or dead bodies.",
       "stats": [
@@ -8837,8 +8837,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Only the finest of culinary creations may grace the lips of Timmy. They feel neutral towards mundane meals, but will laud and savour lavish meals down to the last bite.",
       "stats": [
@@ -8867,8 +8867,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Whether through studying ancient manuscripts or years of scholastic pursuit Timmy is surprisingly well read on a variety of topics, particularly science and medical practice.",
       "stats": [
@@ -8901,8 +8901,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy strongly believes infrastucture rules all and is a natural born stoneworker.",
       "stats": [
@@ -8933,8 +8933,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "In the eyes of Timmy food is art, their culinary creations are incredibly beautiful, amazing to taste, and almost always safe to eat.",
       "stats": [
@@ -8963,8 +8963,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Flora and fauna are both vital to Timmy. They use all parts of plants and animals and strongly appreciate mother Gaia's blessings.",
       "stats": [
@@ -8995,8 +8995,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy has an eye for silver and a tongue made from it. They believe their products are the best products and he will likely convince you if given the chance.",
       "stats": [
@@ -9025,8 +9025,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is strangely hypercoagulating and will bleed much more slowly than most.",
       "stats": [],
@@ -9051,8 +9051,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy is strangely hemophilic and tends to bleed much more profusely than others.",
       "stats": [],
@@ -9077,8 +9077,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy has trouble expressing themselves until its all too much to bear, whereafter they will have an utter meltdown.",
       "stats": [],
@@ -9099,8 +9099,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy knows the spirit of all arms. If he is not bonded to a weapon already, upon equipping a non-biocodable melee weapon, it will generate a single persona weapon trait and will bond to them. Should Timmy ever unequip the weapon, it will lose these traits.",
       "stats": [
@@ -9127,21 +9127,21 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 1,
       "description": "Timmy genes have been perfected, and is now a fully fledged space marine.",
       "stats": [
         "x15% global certainty loss factor"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "x15% global certainty loss factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Warhammer 40.000 - Genes",
@@ -9153,21 +9153,21 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 2,
       "description": "Timmy genes have been perfected, and is now a fully fledged primaris marine.",
       "stats": [
         "x5% global certainty loss factor"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "x5% global certainty loss factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Warhammer 40.000 - Genes",
@@ -9179,8 +9179,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 3,
       "description": "Timmy genes have been perfected, and is now a fully fledged custodes.",
       "stats": [
@@ -9205,21 +9205,21 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 4,
       "description": "Timmy genes have been perfected, and is now a fully fledged primarch.",
       "stats": [
         "x0% global certainty loss factor"
       ],
       "conflicts": [],
-      "bypassLimit": false,
+      "bypassLimit": true,
       "data": {
         "conflicts": [],
         "stats": [
           "x0% global certainty loss factor"
         ],
-        "canBypassLimit": false,
+        "canBypassLimit": true,
         "customName": false,
         "karmaTypeForRemoving": null,
         "mod": "Warhammer 40.000 - Genes",
@@ -9231,8 +9231,8 @@
     {
       "canAdd": true,
       "canRemove": true,
-      "addPrice": 3500,
-      "removePrice": 5500,
+      "addPrice": 3333,
+      "removePrice": 1111,
       "degree": 0,
       "description": "Timmy has a stunted intellect, they operate at a level similar to children and as such cannot perform complex task.",
       "stats": [],
@@ -9249,6 +9249,70 @@
       },
       "defName": "BEWH_OgrynStuntedIntellect",
       "name": "stuntedintellect"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy is obsessed with unnatural phenomena, but immersion in the void erodes their grip on the mundane–soon, even \"reality\" feels like the most fragile fiction of all.",
+      "stats": [
+        "+3 intellectual",
+        "+2 social",
+        "x150% entity study rate",
+        "x150% study efficiency",
+        "x150% activity suppression speed",
+        "x50% research speed"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "+3 intellectual",
+          "+2 social",
+          "x150% entity study rate",
+          "x150% study efficiency",
+          "x150% activity suppression speed",
+          "x50% research speed"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Synergistic Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "SN_anomalyResearcher",
+      "name": "riftscholar"
+    },
+    {
+      "canAdd": true,
+      "canRemove": true,
+      "addPrice": 3500,
+      "removePrice": 5500,
+      "degree": 0,
+      "description": "Timmy's body seems to process food and blood with remarkable efficiency. he can extract more nutrition from raw food and gain more hemogen from blood than most others.",
+      "stats": [
+        "x125% hemogen gain multiplier",
+        "x125% raw nutrition multiplier"
+      ],
+      "conflicts": [],
+      "bypassLimit": false,
+      "data": {
+        "conflicts": [],
+        "stats": [
+          "x125% hemogen gain multiplier",
+          "x125% raw nutrition multiplier"
+        ],
+        "canBypassLimit": false,
+        "customName": false,
+        "karmaTypeForRemoving": null,
+        "mod": "Synergistic Traits",
+        "karmaTypeForAdding": null
+      },
+      "defName": "SN_Hypermetabolic",
+      "name": "hypermetabolic"
     }
   ],
   "races": [
@@ -9270,7 +9334,7 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "Human",
-      "enabled": false,
+      "enabled": true,
       "name": "human",
       "price": 2917
     },
@@ -9292,7 +9356,7 @@
       },
       "description": "A baseline human, mostly unmodified by gene engineering and mostly unchanged by evolutionary pressures on non-Earth planets.",
       "defName": "CreepJoiner",
-      "enabled": false,
+      "enabled": true,
       "name": "human",
       "price": 2917
     },
@@ -9314,9 +9378,9 @@
       },
       "description": "A genetically engineered son of the God Emperor of Man.",
       "defName": "GWPA_PrimarchRace",
-      "enabled": true,
+      "enabled": false,
       "name": "primarch",
-      "price": 2917
+      "price": 100000
     }
   ]
 }

@@ -360,6 +360,12 @@
     "version": "1.5.0"
   },
   {
+    "author": "Yanzihko / ChillGreenBean (Patcher)",
+    "name": "Archotech Expanded Patched",
+    "steamId": null,
+    "version": null
+  },
+  {
     "author": "Biscuit",
     "name": "Archotech+ (Continued)",
     "steamId": "2270493883",
@@ -444,12 +450,6 @@
     "version": null
   },
   {
-    "author": "Roolo",
-    "name": "Search and Destroy (Unofficial Update)",
-    "steamId": null,
-    "version": null
-  },
-  {
     "author": "PeteTimesSix",
     "name": "Simple sidearms",
     "steamId": "927155256",
@@ -496,6 +496,12 @@
     "name": "Remove Death Amnesia",
     "steamId": "1905421159",
     "version": "2.1.0+7d56af4a193adaf667037ad4fdfbcf54b8c71fce"
+  },
+  {
+    "author": "Doug",
+    "name": "No Job Authors",
+    "steamId": "2009825774",
+    "version": "1.0.0.0"
   },
   {
     "author": "Jdalt40",

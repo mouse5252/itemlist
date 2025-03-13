@@ -10514,7 +10514,7 @@
 	},
 	{
 		"abr": "emperor'ssword",
-		"price": 10000,
+		"price": 20000,
 		"category": "Melee weapons",
 		"defname": "GW_SM_Melee_FlameSword"
 	},
@@ -10568,7 +10568,7 @@
 	},
 	{
 		"abr": "fealty",
-		"price": 10000,
+		"price": 52000,
 		"category": "Melee weapons",
 		"defname": "GW_SS_LionSword"
 	},
@@ -13934,7 +13934,7 @@
 	},
 	{
 		"abr": "relicchainsword",
-		"price": 5000,
+		"price": -10,
 		"category": "Melee weapons",
 		"defname": "GF40K_RelicChainSword"
 	},
@@ -16033,12 +16033,6 @@
 		"defname": "BS_CreateXenogerm"
 	},
 	{
-		"abr": "xeno-germlinemirroring",
-		"price": 1667,
-		"category": "Misc",
-		"defname": "BS_XenoCopy"
-	},
-	{
 		"abr": "xenophaseblade",
 		"price": 16667,
 		"category": "Melee weapons",
@@ -16080,6 +16074,360 @@
 		"category": "Ranged weapons",
 		"defname": "Gun_Zarona"
 	},
+	{
+		"abr": "apollyonarchotecharm",
+		"price": 53467,
+		"category": "Archotech",
+		"defname": "BeanzArchotechArm"
+	},
+	{
+		"abr": "apollyonarchotechear",
+		"price": 5058,
+		"category": "Archotech",
+		"defname": "BeanzArchotechEar"
+	},
+	{
+		"abr": "apollyonarchotecheye",
+		"price": 49300,
+		"category": "Archotech",
+		"defname": "BeanzArchotechEye"
+	},
+	{
+		"abr": "apollyonarchotechheart",
+		"price": 15058,
+		"category": "Archotech",
+		"defname": "BeanzArchotechHeart"
+	},
+	{
+		"abr": "apollyonarchotechkidney",
+		"price": 10058,
+		"category": "Archotech",
+		"defname": "BeanzArchotechKidney"
+	},
+	{
+		"abr": "apollyonarchotechleg",
+		"price": 70967,
+		"category": "Archotech",
+		"defname": "BeanzArchotechLeg"
+	},
+	{
+		"abr": "apollyonarchotechliver",
+		"price": 15058,
+		"category": "Archotech",
+		"defname": "BeanzArchotechLiver"
+	},
+	{
+		"abr": "apollyonarchotechlung",
+		"price": 10058,
+		"category": "Archotech",
+		"defname": "BeanzArchotechLung"
+	},
+	{
+		"abr": "apollyonarchotechnexus",
+		"price": 752467,
+		"category": "Archotech",
+		"defname": "BeanzArchotechNexus"
+	},
+	{
+		"abr": "apollyonarchotechnose",
+		"price": 5058,
+		"category": "Archotech",
+		"defname": "BeanzArchotechNose"
+	},
+	{
+		"abr": "apollyonarchotechpelvis",
+		"price": 10058,
+		"category": "Archotech",
+		"defname": "BeanzArchotechPelvis"
+	},
+	{
+		"abr": "apollyonarchotechspine",
+		"price": 15058,
+		"category": "Archotech",
+		"defname": "BeanzArchotechSpine"
+	},
+	{
+		"abr": "apollyonarchotechstomach",
+		"price": 10058,
+		"category": "Archotech",
+		"defname": "BeanzArchotechStomach"
+	},
+	{
+		"abr": "apollyon-archo-analyzer",
+		"price": 542267,
+		"category": "Misc",
+		"defname": "ApollyonArchoAnalyzer"
+	},
+	{
+		"abr": "archo-analyzer",
+		"price": 24642,
+		"category": "Misc",
+		"defname": "ArchoAnalyzer"
+	},
+	{
+		"abr": "archoblade",
+		"price": 16667,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_YanzArchotechBlade"
+	},
+	{
+		"abr": "archolibrary",
+		"price": 16667,
+		"category": "Archotech Re-Expanded",
+		"defname": "Archolibrary"
+	},
+	{
+		"abr": "archostrand",
+		"price": 167,
+		"category": "Archotech Re-Expanded",
+		"defname": "Archostrand"
+	},
+	{
+		"abr": "archotecharchostrandreactor",
+		"price": 2500,
+		"category": "Special",
+		"defname": "ArchotechInfiniteArchostrandreactor"
+	},
+	{
+		"abr": "archotecharm",
+		"price": 10058,
+		"category": "Archotech",
+		"defname": "YanzArchotechArm"
+	},
+	{
+		"abr": "archotechattofomax",
+		"price": 833333,
+		"category": "Special",
+		"defname": "ArchotechAttoFomax"
+	},
+	{
+		"abr": "archotechbattery",
+		"price": 17558,
+		"category": "Power",
+		"defname": "ArchotechBattery"
+	},
+	{
+		"abr": "archotechblock",
+		"price": 167,
+		"category": "Archotech Re-Expanded",
+		"defname": "BlockArchotech"
+	},
+	{
+		"abr": "archotechblockreactor",
+		"price": 2500,
+		"category": "Special",
+		"defname": "ArchotechInfiniteArchoblockreactor"
+	},
+	{
+		"abr": "archotechchemfuelreactor",
+		"price": 16667,
+		"category": "Special",
+		"defname": "ArchotechInfiniteChemreactor"
+	},
+	{
+		"abr": "archotechcomponent",
+		"price": 833,
+		"category": "Archotech Re-Expanded",
+		"defname": "ComponentArchotech"
+	},
+	{
+		"abr": "archotechcomponentreactor",
+		"price": 2500,
+		"category": "Special",
+		"defname": "ArchotechInfiniteArchocomponentreactor"
+	},
+	{
+		"abr": "archotechear",
+		"price": 5058,
+		"category": "Archotech",
+		"defname": "YanzArchotechEar"
+	},
+	{
+		"abr": "archotecheye",
+		"price": 5058,
+		"category": "Archotech",
+		"defname": "YanzArchotechEye"
+	},
+	{
+		"abr": "archotechfemtofomax",
+		"price": 833333,
+		"category": "Special",
+		"defname": "ArchotechFemtoFomax"
+	},
+	{
+		"abr": "archotechgoldreactor",
+		"price": 16667,
+		"category": "Special",
+		"defname": "ArchotechInfiniteGoldreactor"
+	},
+	{
+		"abr": "archotechheart",
+		"price": 15058,
+		"category": "Archotech",
+		"defname": "YanzArchotechHeart"
+	},
+	{
+		"abr": "archotechkidney",
+		"price": 10058,
+		"category": "Archotech",
+		"defname": "YanzArchotechKidney"
+	},
+	{
+		"abr": "archotechleg",
+		"price": 10058,
+		"category": "Archotech",
+		"defname": "YanzArchotechLeg"
+	},
+	{
+		"abr": "archotechliver",
+		"price": 15058,
+		"category": "Archotech",
+		"defname": "YanzArchotechLiver"
+	},
+	{
+		"abr": "archotechlung",
+		"price": 10058,
+		"category": "Archotech",
+		"defname": "YanzArchotechLung"
+	},
+	{
+		"abr": "archotechmedicine",
+		"price": 167,
+		"category": "Medicine",
+		"defname": "MedicineArchotech"
+	},
+	{
+		"abr": "archotechnexus",
+		"price": 91725,
+		"category": "Archotech",
+		"defname": "YanzArchotechNexus"
+	},
+	{
+		"abr": "archotechnose",
+		"price": 5058,
+		"category": "Archotech",
+		"defname": "YanzArchotechNose"
+	},
+	{
+		"abr": "archotechpelvis",
+		"price": 10058,
+		"category": "Archotech",
+		"defname": "YanzArchotechPelvis"
+	},
+	{
+		"abr": "archotechpicofomax",
+		"price": 833333,
+		"category": "Special",
+		"defname": "ArchotechPicoFomax"
+	},
+	{
+		"abr": "archotechplasteelreactor",
+		"price": 2500,
+		"category": "Special",
+		"defname": "ArchotechInfinitePlasteelreactor"
+	},
+	{
+		"abr": "archotechpsychicemanator",
+		"price": 2167,
+		"category": "Special",
+		"defname": "ArchotechPsychicEmanator"
+	},
+	{
+		"abr": "archotechrifle",
+		"price": 33333,
+		"category": "Ranged weapons",
+		"defname": "Gun_YanzArchotechRifle"
+	},
+	{
+		"abr": "archotechsilverreactor",
+		"price": 16667,
+		"category": "Special",
+		"defname": "ArchotechInfiniteSilverreactor"
+	},
+	{
+		"abr": "archotechspine",
+		"price": 15058,
+		"category": "Archotech",
+		"defname": "YanzArchotechSpine"
+	},
+	{
+		"abr": "archotechstation",
+		"price": 24642,
+		"category": "Production",
+		"defname": "ArchotechStation"
+	},
+	{
+		"abr": "archotechsteelreactor",
+		"price": 16667,
+		"category": "Special",
+		"defname": "ArchotechInfiniteSteelreactor"
+	},
+	{
+		"abr": "archotechstomach",
+		"price": 10058,
+		"category": "Archotech",
+		"defname": "YanzArchotechStomach"
+	},
+	{
+		"abr": "archotechsupressionrifle",
+		"price": 16667,
+		"category": "Ranged weapons",
+		"defname": "Gun_YanzArchotechRifleBlunt"
+	},
+	{
+		"abr": "archotechuraniumreactor",
+		"price": 2500,
+		"category": "Special",
+		"defname": "ArchotechInfiniteUraniumreactor"
+	},
+	{
+		"abr": "archotechvanometricpowercell",
+		"price": 2000,
+		"category": "Special",
+		"defname": "ArchotechVanometricPowerCell"
+	},
+	{
+		"abr": "attomachinery",
+		"price": 500,
+		"category": "Archotech Re-Expanded",
+		"defname": "Attomachinery"
+	},
+	{
+		"abr": "femtomachinery",
+		"price": 333,
+		"category": "Archotech Re-Expanded",
+		"defname": "Femtomachinery"
+	},
+	{
+		"abr": "picomachinery",
+		"price": 167,
+		"category": "Archotech Re-Expanded",
+		"defname": "Picomachinery"
+	},
+	{
+		"abr": "apollyonarchoblade",
+		"price": 833333,
+		"category": "Melee weapons",
+		"defname": "MeleeWeapon_BeanzArchotechBlade"
+	},
+	{
+		"abr": "apollyonarchotechmedicine",
+		"price": 4167,
+		"category": "Medicine",
+		"defname": "ApollyonMedicineArchotech"
+	},
+	{
+		"abr": "archotechrifle",
+		"price": 300000,
+		"category": "Ranged weapons",
+		"defname": "Gun_BeanzArchotechRifle"
+	},
+	{
+		"abr": "archotechsupressionrifle",
+		"price": 300000,
+		"category": "Ranged weapons",
+		"defname": "Gun_BeanzArchotechRifleBlunt"
+	}
 	],
-	"total": 2680
+	"total": 2738
 }
